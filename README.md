@@ -40,7 +40,7 @@ Write Board is a messaging board application, people once registered can post an
 
 Create a new rails project under your name, for example
   
-  rails new roy
+  rails new bobby
 
 CSS styling isn't required but is a good thing to have to make things neat
 
